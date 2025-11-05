@@ -34,5 +34,42 @@ let score = "hitesh"
 let someNumber = 33
 
 let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber)
+
+
+//****************************Opertaion ****************//
+
+num1 = num2 = num3 = 3+5
+
+// console.log(num1);
+
+let gameCounter = 100
+// gameCounter++
+++gameCounter
+// console.log(gameCounter);
+
+
+//**************Comparison *********************//
+
+// null related 
+
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0);
+
+//undefine related
+
+// console.log(undefined == 0);
+// console.log(undefined >= 0);
+// console.log(undefined > 0);
+
+
+// ===  check the value stricly
+
+console.log("2" === 2)
+
+
+
+
+
